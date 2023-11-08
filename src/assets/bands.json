@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BTESS",
+    "id": "btess",
+    "date": 1686675030000,
+    "location": "6914 4th St NW, Washington, DC 20012",
+    "description_blurb": "<div><b>Come see the world sensation BTESS! ONE NIGHT ONLY!!!</b><p>You'll dance.</p><p>You'll sing.</p></p>You'll cry.</p><You'll feel all the feels.</p></div>",
+    "imgUrl": "https://via.placeholder.com/600/f66b97",
+    "ticketTypes": [
+      {
+        "type": "general",
+        "name": "General Admission",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "cost": 6000
+      },
+      {
+        "type": "vip",
+        "name": "VIP",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "cost": 15000
+      },
+      {
+        "type": "meet-and-greet",
+        "name": "VIP + Meet and Greet",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "cost": 30000
+      }
+    ]
+  },
+  {
+    "name": "Cindy and The Scintillators",
+    "id": "cindy",
+    "date": 1686761430000,
+    "location": "565 Broadway, Tacoma, WA 98402",
+    "description_blurb": "<div><h3>hey, I'm cindy</h3><p>Im purposefully not using punctuation because thats how punkrock i am. come listen to our stuff or dont i dont care.</p></div>.",
+    "imgUrl": "https://via.placeholder.com/600/54176f",
+    "ticketTypes": [
+      {
+        "type": "general",
+        "name": "General Admission",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "cost": 6000
+      },
+      {
+        "type": "vip",
+        "name": "VIP",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "cost": 15000
+      }
+    ]
+  },
+  {
+    "name": "The Flaming Potatoes",
+    "id": "flaming-potatoes",
+    "date": 1683644012000,
+    "location": "Groove, 125 MacDougal St, New York, NY 10012",
+    "description_blurb": "<p>We're the Flaming Potatoes, and once you come to this awesome small club performance, you'll be our Best Spuds!</p>.",
+    "imgUrl": "https://via.placeholder.com/600/51aa97",
+    "ticketTypes": [
+      {
+        "type": "vip",
+        "name": "VIP",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "cost": 15000
+      },
+      {
+        "type": "meet-and-greet",
+        "name": "VIP + Meet and Greet",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "cost": 30000
+      }
+    ]
+  }
+]
