@@ -1,17 +1,10 @@
-# ActBlue Takehome
-
+# Rad Band Form
 ## About
 
-Purchase Tickets form for rad touring bands. Part of the ActBlue interview process.
+Purchase Tickets form for rad touring bands.
 
 ## Installation
-
-1. Download ZIP file
-2. Right-click on the ZIP file and select "Extract All…"
-3. Go to terminal and navigate to directory
-
 Run in terminal:
-
 1. `npm i`
 2. `npm run dev`
 3. Navigate to `http://localhost:5173/` in browser
